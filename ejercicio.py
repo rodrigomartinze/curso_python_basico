@@ -5,7 +5,7 @@ def facturacion(e1,e2,e3):
 
 facturacion(100,200,300)
 
-#FACTURACION MEDIA DE MAS DE TRES EMPRESAS
+#2-FACTURACION MEDIA DE MAS DE TRES EMPRESAS
 
 def facturacion(empresas):
     suma = sum(empresas)
@@ -14,3 +14,9 @@ def facturacion(empresas):
 
 
 facturacion([150,240,344,235,342,543,215,853,234])
+
+#3-CALCULAR PRECIO DE UNA COMPRA CON IMPUESTOS DE 21%
+
+def precio_impuesto():
+    pass
+precio_impuesto
